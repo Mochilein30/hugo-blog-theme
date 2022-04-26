@@ -1,41 +1,39 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Aura Arbulu Vasquez
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: Policy maker // opinóloga
 
 # Status emoji
 status:
-  icon: ☕️
-
+  icon: 
+  
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
-    url: ''
+  - name: Somos Ciudadania - Peru
+    url: 'www.somosciudadania.org'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include latam politics, elections, decentralization, parliaments, woman and tech.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Public policy with evidence
+#- Female leadership
+#- Political campaigns
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: Master of Public Policy
+#    institution: Hertie School of Governance
+#    year: 2023
+#  - course: LLB (Abogada)
+#    institution: Universidad de San Martin de Porres
+#    year: 2014
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,28 +42,26 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: 'about/#contact' # For a direct email link, use "auram.arbulu@gmail.com".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://twitter.com/mochilein
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/auraarbuluv
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
-#  link: https://github.com/gcushen
+#  link: https://github.com/Mochilein30
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Aura Arbulu Vasquez is a student at the Hertie School of Governance in Germany. She is the co-founder of the Asociacion Somos Ciudadania in Peru, that has as its main objective to promote citizen participation in public affairs. She believes in a Latinamerican region united, inclusive and free.
